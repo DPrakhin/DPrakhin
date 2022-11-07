@@ -1,4 +1,6 @@
 ### Hi there 👋
+In this repo you will find a small script to install Apache on Ubuntu system.
+Please, run with sudo...
 
 <!--
 **DPrakhin/DPrakhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
